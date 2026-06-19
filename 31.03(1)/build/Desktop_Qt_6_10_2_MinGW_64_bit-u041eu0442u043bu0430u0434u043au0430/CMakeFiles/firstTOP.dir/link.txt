@@ -1,0 +1,3 @@
+C:\Games\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\firstTOP.dir/objects.a
+C:\Games\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\firstTOP.dir/objects.a @CMakeFiles\firstTOP.dir\objects1.rsp
+C:\Games\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\firstTOP.dir/objects.a -Wl,--no-whole-archive -o firstTOP.exe -Wl,--out-implib,libfirstTOP.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\firstTOP.dir\linkLibs.rsp
