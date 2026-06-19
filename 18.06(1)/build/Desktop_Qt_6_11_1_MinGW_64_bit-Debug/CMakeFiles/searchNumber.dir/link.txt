@@ -1,0 +1,3 @@
+C:\Games\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\searchNumber.dir/objects.a
+C:\Games\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\searchNumber.dir/objects.a @CMakeFiles\searchNumber.dir\objects1.rsp
+C:\Games\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\searchNumber.dir/objects.a -Wl,--no-whole-archive -o searchNumber.exe -Wl,--out-implib,libsearchNumber.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\searchNumber.dir\linkLibs.rsp
