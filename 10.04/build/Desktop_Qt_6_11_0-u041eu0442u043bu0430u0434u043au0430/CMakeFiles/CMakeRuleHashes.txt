@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+9c1699f8c322f1ac46fe53b3ebc2985b CMakeFiles/classmates_autogen
+cbbb5515a71770130dca0965f3f538d8 classmates_autogen/timestamp

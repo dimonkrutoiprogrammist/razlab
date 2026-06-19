@@ -1,0 +1,9 @@
+/home/powolluma/Документы/Coding/Qt/classmates/build/Desktop_Qt_6_11_0-u041eu0442u043bu0430u0434u043au0430/CMakeFiles/classmates.dir
+/home/powolluma/Документы/Coding/Qt/classmates/build/Desktop_Qt_6_11_0-u041eu0442u043bu0430u0434u043au0430/CMakeFiles/edit_cache.dir
+/home/powolluma/Документы/Coding/Qt/classmates/build/Desktop_Qt_6_11_0-u041eu0442u043bu0430u0434u043au0430/CMakeFiles/rebuild_cache.dir
+/home/powolluma/Документы/Coding/Qt/classmates/build/Desktop_Qt_6_11_0-u041eu0442u043bu0430u0434u043au0430/CMakeFiles/list_install_components.dir
+/home/powolluma/Документы/Coding/Qt/classmates/build/Desktop_Qt_6_11_0-u041eu0442u043bu0430u0434u043au0430/CMakeFiles/install.dir
+/home/powolluma/Документы/Coding/Qt/classmates/build/Desktop_Qt_6_11_0-u041eu0442u043bu0430u0434u043au0430/CMakeFiles/install/local.dir
+/home/powolluma/Документы/Coding/Qt/classmates/build/Desktop_Qt_6_11_0-u041eu0442u043bu0430u0434u043au0430/CMakeFiles/install/strip.dir
+/home/powolluma/Документы/Coding/Qt/classmates/build/Desktop_Qt_6_11_0-u041eu0442u043bu0430u0434u043au0430/CMakeFiles/classmates_autogen_timestamp_deps.dir
+/home/powolluma/Документы/Coding/Qt/classmates/build/Desktop_Qt_6_11_0-u041eu0442u043bu0430u0434u043au0430/CMakeFiles/classmates_autogen.dir
